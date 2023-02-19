@@ -1,0 +1,15 @@
+
+
+.footer-container {
+    background-color: azure;
+    position: relative;
+
+}
+
+.img {
+    border-radius: 50%;
+}
+
+.user-details {
+    display: inline-flex;
+}
